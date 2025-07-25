@@ -19,3 +19,7 @@ A unique, language-agnostic platform for handling Slowly Changing Dimensions (SC
 ## Docs
 
 See `docs/` for architecture, onboarding, and demo scripts.
+
+## 📺 Demo Video
+
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/8e4a6235f9004631af482523e3e0a833-with-play.gif)](https://www.loom.com/share/8e4a6235f9004631af482523e3e0a833?sid=9b988016-641e-4cc0-91f2-a8a8ba89a6f5)
