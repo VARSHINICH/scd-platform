@@ -1,0 +1,24 @@
+models:
+  - name: Job
+    fields:
+      - name: id
+        type: string
+      - name: version
+        type: int
+      - name: uid
+        type: string
+      - name: status
+        type: string
+      - name: rate
+        type: float
+      - name: company_id
+        type: string
+      - name: contractor_id
+        type: string
+
+queries:
+  - name: active_jobs_for_company
+    model: Job
+    filters:
+      status: active
+      company_id: $company_id
